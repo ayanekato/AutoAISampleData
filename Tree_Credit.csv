@@ -1,0 +1,2465 @@
+Credit,Age,Income,Credit_Card,Education,Car_Loan
+Bad,37,middle,more than 5,university,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,33,low,more than 5,university,none or 1
+Bad,37,middle,more than 5,university,more than 2
+Bad,40,middle,more than 5,university,more than 2
+Bad,32,middle,more than 5,university,more than 2
+Bad,35,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,46,low,more than 5,high school,more than 2
+Bad,30,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,none or 1
+Bad,40,low,more than 5,high school,more than 2
+Bad,40,low,more than 5,university,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,27,high,more than 5,university,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,44,middle,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,41,low,more than 5,university,none or 1
+Bad,21,low,more than 5,university,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,33,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,28,high,more than 5,high school,none or 1
+Bad,21,middle,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,none or 1
+Bad,25,low,more than 5,high school,more than 2
+Bad,48,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,31,high,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,33,middle,more than 5,high school,more than 2
+Bad,32,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,25,middle,less than 4,university,none or 1
+Bad,38,low,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,47,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,47,middle,more than 5,university,none or 1
+Bad,21,low,more than 5,high school,more than 2
+Bad,21,low,more than 5,university,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,39,low,more than 5,university,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,37,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,29,middle,more than 5,high school,more than 2
+Bad,45,middle,more than 5,high school,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,29,low,more than 5,high school,none or 1
+Bad,37,middle,more than 5,university,more than 2
+Bad,25,low,more than 5,university,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,25,low,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,33,middle,more than 5,university,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,27,low,less than 4,high school,none or 1
+Bad,31,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,51,low,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,36,low,more than 5,university,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,39,middle,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,37,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,43,low,more than 5,university,more than 2
+Bad,27,middle,less than 4,high school,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,53,low,more than 5,university,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,36,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,45,low,more than 5,high school,more than 2
+Bad,44,middle,more than 5,university,more than 2
+Bad,21,middle,less than 4,university,none or 1
+Bad,28,low,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,38,middle,more than 5,high school,more than 2
+Bad,26,high,more than 5,university,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,39,middle,more than 5,university,none or 1
+Bad,25,middle,more than 5,university,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,44,low,more than 5,university,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,27,high,more than 5,university,more than 2
+Bad,40,high,more than 5,university,more than 2
+Bad,32,middle,less than 4,high school,none or 1
+Bad,24,low,more than 5,high school,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,24,high,more than 5,high school,more than 2
+Bad,30,low,less than 4,high school,none or 1
+Bad,30,low,less than 4,high school,none or 1
+Bad,23,low,more than 5,high school,more than 2
+Bad,32,low,less than 4,high school,none or 1
+Bad,33,low,more than 5,high school,none or 1
+Bad,38,middle,more than 5,university,more than 2
+Bad,40,low,more than 5,university,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,29,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,high school,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,44,low,more than 5,high school,none or 1
+Bad,34,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,45,low,more than 5,university,none or 1
+Bad,23,high,more than 5,university,more than 2
+Bad,33,middle,more than 5,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,23,middle,less than 4,university,none or 1
+Bad,31,middle,more than 5,high school,more than 2
+Bad,55,middle,more than 5,high school,more than 2
+Bad,30,middle,less than 4,high school,none or 1
+Bad,21,low,more than 5,university,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,39,low,more than 5,high school,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,37,low,more than 5,high school,none or 1
+Bad,21,middle,more than 5,high school,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,40,low,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,44,low,more than 5,university,none or 1
+Bad,35,middle,more than 5,high school,none or 1
+Bad,41,middle,less than 4,university,none or 1
+Bad,34,high,more than 5,high school,none or 1
+Bad,26,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,42,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,45,middle,less than 4,university,none or 1
+Bad,22,low,more than 5,high school,more than 2
+Bad,38,middle,more than 5,university,more than 2
+Bad,54,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,high school,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,35,low,less than 4,high school,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,university,more than 2
+Bad,37,middle,less than 4,high school,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,44,low,more than 5,university,more than 2
+Bad,23,high,more than 5,university,more than 2
+Bad,48,high,more than 5,university,more than 2
+Bad,38,low,more than 5,high school,none or 1
+Bad,25,middle,more than 5,university,more than 2
+Bad,29,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,none or 1
+Bad,28,middle,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,21,middle,less than 4,university,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,32,middle,more than 5,high school,none or 1
+Bad,23,low,more than 5,university,more than 2
+Bad,38,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,52,middle,more than 5,high school,none or 1
+Bad,27,middle,more than 5,university,more than 2
+Bad,41,low,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,none or 1
+Bad,22,low,more than 5,high school,more than 2
+Bad,27,middle,less than 4,high school,none or 1
+Bad,24,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,32,middle,more than 5,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,38,middle,more than 5,high school,more than 2
+Bad,29,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,33,middle,more than 5,university,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,44,middle,more than 5,university,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,42,middle,more than 5,high school,more than 2
+Bad,21,low,less than 4,university,none or 1
+Bad,36,low,more than 5,high school,more than 2
+Bad,45,low,more than 5,university,more than 2
+Bad,39,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,47,low,more than 5,university,more than 2
+Bad,29,high,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,21,middle,less than 4,university,none or 1
+Bad,27,low,more than 5,university,more than 2
+Bad,39,middle,less than 4,high school,none or 1
+Bad,36,high,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,38,middle,less than 4,high school,none or 1
+Bad,23,middle,less than 4,university,none or 1
+Bad,38,middle,less than 4,university,none or 1
+Bad,36,high,more than 5,high school,more than 2
+Bad,40,middle,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,37,middle,more than 5,high school,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,25,low,less than 4,high school,none or 1
+Bad,23,middle,less than 4,high school,none or 1
+Bad,23,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,27,middle,less than 4,university,none or 1
+Bad,29,middle,more than 5,high school,more than 2
+Bad,31,middle,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,27,high,more than 5,high school,more than 2
+Bad,29,low,more than 5,high school,more than 2
+Bad,32,high,more than 5,university,more than 2
+Bad,24,low,more than 5,university,none or 1
+Bad,26,low,more than 5,university,none or 1
+Bad,30,middle,more than 5,university,more than 2
+Bad,38,middle,less than 4,high school,none or 1
+Bad,28,middle,more than 5,high school,more than 2
+Bad,40,low,more than 5,university,more than 2
+Bad,23,high,more than 5,high school,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,29,low,more than 5,university,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,42,low,more than 5,high school,more than 2
+Bad,32,low,less than 4,university,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,none or 1
+Bad,23,middle,more than 5,university,more than 2
+Bad,28,high,more than 5,high school,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,29,low,more than 5,university,none or 1
+Bad,21,low,less than 4,high school,none or 1
+Bad,23,middle,more than 5,university,more than 2
+Bad,22,low,more than 5,university,none or 1
+Bad,26,middle,more than 5,high school,more than 2
+Bad,35,middle,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,none or 1
+Bad,36,low,more than 5,high school,more than 2
+Bad,28,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,45,middle,more than 5,university,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,36,low,less than 4,high school,none or 1
+Bad,37,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,33,middle,more than 5,university,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,32,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,34,low,more than 5,university,none or 1
+Bad,23,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,37,low,more than 5,high school,more than 2
+Bad,28,middle,less than 4,high school,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,35,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,36,middle,less than 4,high school,more than 2
+Bad,28,middle,less than 4,university,none or 1
+Bad,35,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,23,high,more than 5,university,none or 1
+Bad,30,middle,less than 4,university,none or 1
+Bad,22,middle,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,40,middle,more than 5,university,more than 2
+Bad,32,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,35,middle,more than 5,university,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,22,low,more than 5,university,none or 1
+Bad,46,low,less than 4,university,none or 1
+Bad,38,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,57,low,more than 5,high school,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,52,middle,less than 4,university,none or 1
+Bad,26,low,more than 5,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,38,high,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,33,high,less than 4,university,none or 1
+Bad,23,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,32,middle,more than 5,university,more than 2
+Bad,34,middle,more than 5,university,more than 2
+Bad,34,middle,less than 4,university,none or 1
+Bad,32,low,more than 5,high school,none or 1
+Bad,27,high,more than 5,high school,none or 1
+Bad,30,low,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,41,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,27,middle,less than 4,university,none or 1
+Bad,35,middle,more than 5,high school,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,30,middle,less than 4,high school,none or 1
+Bad,38,low,more than 5,university,more than 2
+Bad,45,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,33,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,26,middle,less than 4,high school,none or 1
+Bad,38,middle,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,42,low,more than 5,high school,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,33,middle,more than 5,high school,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,26,low,more than 5,high school,more than 2
+Bad,45,middle,more than 5,university,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,29,low,more than 5,high school,more than 2
+Bad,32,middle,less than 4,university,none or 1
+Bad,37,middle,less than 4,university,none or 1
+Bad,31,low,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,36,low,less than 4,university,none or 1
+Bad,23,high,more than 5,high school,none or 1
+Bad,44,low,more than 5,high school,more than 2
+Bad,21,low,less than 4,university,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,none or 1
+Bad,28,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,32,middle,more than 5,high school,more than 2
+Bad,32,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,38,middle,more than 5,high school,none or 1
+Bad,36,low,more than 5,university,more than 2
+Bad,26,middle,less than 4,university,none or 1
+Bad,22,low,less than 4,high school,none or 1
+Bad,32,high,less than 4,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,44,middle,more than 5,high school,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,32,low,more than 5,university,none or 1
+Bad,28,low,more than 5,university,more than 2
+Bad,30,low,more than 5,university,none or 1
+Bad,24,middle,less than 4,university,none or 1
+Bad,26,high,more than 5,high school,none or 1
+Bad,29,low,more than 5,university,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,31,high,more than 5,high school,more than 2
+Bad,39,middle,less than 4,university,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,39,low,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,23,middle,less than 4,high school,none or 1
+Bad,36,middle,more than 5,high school,more than 2
+Bad,40,middle,more than 5,high school,more than 2
+Bad,29,low,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,42,middle,more than 5,high school,more than 2
+Bad,42,middle,more than 5,high school,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,35,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,44,high,more than 5,university,more than 2
+Bad,23,low,less than 4,high school,none or 1
+Bad,28,middle,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,39,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,37,low,more than 5,high school,more than 2
+Bad,29,high,less than 4,high school,none or 1
+Bad,34,low,more than 5,high school,more than 2
+Bad,26,high,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,none or 1
+Bad,28,middle,less than 4,university,none or 1
+Bad,31,high,more than 5,high school,more than 2
+Bad,34,middle,less than 4,high school,none or 1
+Bad,27,low,more than 5,university,more than 2
+Bad,40,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,38,high,more than 5,university,more than 2
+Bad,30,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,25,middle,less than 4,university,none or 1
+Bad,21,low,less than 4,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,38,high,more than 5,high school,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,university,none or 1
+Bad,30,low,more than 5,high school,none or 1
+Bad,24,low,more than 5,high school,more than 2
+Bad,39,middle,more than 5,university,more than 2
+Bad,22,middle,less than 4,high school,none or 1
+Bad,35,low,more than 5,university,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,40,middle,more than 5,university,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,38,high,more than 5,university,none or 1
+Bad,22,low,more than 5,university,none or 1
+Bad,21,low,more than 5,high school,none or 1
+Bad,24,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,38,low,more than 5,university,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,41,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,26,middle,less than 4,university,none or 1
+Bad,23,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,35,middle,more than 5,high school,more than 2
+Bad,33,high,less than 4,university,none or 1
+Bad,25,middle,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,none or 1
+Bad,29,middle,more than 5,university,more than 2
+Bad,48,middle,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,34,high,more than 5,university,more than 2
+Bad,33,middle,more than 5,university,more than 2
+Bad,38,high,more than 5,high school,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,high school,more than 2
+Bad,35,high,more than 5,high school,more than 2
+Bad,44,low,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,31,middle,less than 4,high school,none or 1
+Bad,49,high,more than 5,high school,none or 1
+Bad,34,low,more than 5,high school,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,none or 1
+Bad,22,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,29,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,40,high,more than 5,high school,more than 2
+Bad,45,low,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,38,middle,more than 5,university,none or 1
+Bad,42,middle,less than 4,university,none or 1
+Bad,30,low,more than 5,university,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,48,high,more than 5,university,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,41,middle,more than 5,university,more than 2
+Bad,43,low,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,36,low,more than 5,high school,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,35,middle,less than 4,high school,none or 1
+Bad,30,middle,more than 5,high school,more than 2
+Bad,38,middle,more than 5,high school,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,39,low,more than 5,university,more than 2
+Bad,36,low,more than 5,university,none or 1
+Bad,37,middle,more than 5,university,more than 2
+Bad,37,low,more than 5,high school,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,29,middle,more than 5,university,none or 1
+Bad,30,middle,more than 5,high school,more than 2
+Bad,33,middle,more than 5,university,none or 1
+Bad,35,low,more than 5,university,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,32,middle,more than 5,university,none or 1
+Bad,21,low,more than 5,high school,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,39,low,more than 5,high school,more than 2
+Bad,30,high,less than 4,high school,none or 1
+Bad,32,low,more than 5,university,more than 2
+Bad,33,middle,more than 5,high school,more than 2
+Bad,35,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,54,middle,more than 5,high school,more than 2
+Bad,24,low,less than 4,high school,none or 1
+Bad,30,low,less than 4,university,none or 1
+Bad,39,high,more than 5,high school,more than 2
+Bad,38,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,none or 1
+Bad,39,low,more than 5,university,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,33,high,more than 5,high school,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,22,high,less than 4,high school,none or 1
+Bad,37,low,more than 5,university,more than 2
+Bad,42,middle,more than 5,university,more than 2
+Bad,21,low,more than 5,high school,none or 1
+Bad,30,high,more than 5,university,none or 1
+Bad,28,middle,more than 5,university,more than 2
+Bad,51,low,more than 5,university,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,31,low,more than 5,high school,none or 1
+Bad,21,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,28,low,more than 5,university,more than 2
+Bad,38,middle,more than 5,high school,more than 2
+Bad,36,low,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,35,middle,less than 4,university,none or 1
+Bad,30,low,more than 5,university,more than 2
+Bad,29,middle,more than 5,university,more than 2
+Bad,25,low,more than 5,university,more than 2
+Bad,30,high,more than 5,university,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,34,low,more than 5,high school,more than 2
+Bad,25,high,more than 5,high school,more than 2
+Bad,27,high,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,45,low,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,37,middle,more than 5,high school,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,35,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,22,low,less than 4,high school,none or 1
+Bad,30,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,43,middle,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,28,low,less than 4,university,none or 1
+Bad,25,low,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,none or 1
+Bad,36,low,more than 5,high school,more than 2
+Bad,26,high,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,none or 1
+Bad,42,middle,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,high school,more than 2
+Bad,29,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,28,high,more than 5,high school,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,41,middle,more than 5,high school,none or 1
+Bad,24,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,52,low,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,21,low,less than 4,university,more than 2
+Bad,33,low,more than 5,university,more than 2
+Bad,38,high,more than 5,university,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,26,middle,less than 4,high school,none or 1
+Bad,24,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,34,high,more than 5,university,none or 1
+Bad,23,middle,more than 5,high school,more than 2
+Bad,47,middle,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,26,high,more than 5,high school,more than 2
+Bad,30,low,more than 5,high school,more than 2
+Bad,32,middle,more than 5,high school,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,41,middle,more than 5,high school,more than 2
+Bad,48,middle,more than 5,high school,more than 2
+Bad,41,low,more than 5,high school,more than 2
+Bad,47,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,36,low,less than 4,high school,none or 1
+Bad,28,low,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,44,low,more than 5,university,more than 2
+Bad,34,middle,less than 4,high school,none or 1
+Bad,23,middle,more than 5,high school,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,27,low,more than 5,university,none or 1
+Bad,27,middle,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,42,low,more than 5,university,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,37,low,more than 5,high school,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,37,low,more than 5,university,more than 2
+Bad,35,middle,more than 5,university,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,23,low,less than 4,university,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,39,high,more than 5,university,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,25,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,32,middle,more than 5,high school,more than 2
+Bad,25,low,more than 5,university,none or 1
+Bad,43,low,more than 5,high school,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,30,middle,more than 5,high school,more than 2
+Bad,30,high,more than 5,high school,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,42,low,more than 5,high school,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,40,middle,more than 5,university,more than 2
+Bad,38,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,25,middle,less than 4,university,none or 1
+Bad,22,middle,more than 5,university,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,35,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,41,low,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,24,low,more than 5,university,none or 1
+Bad,40,low,more than 5,high school,more than 2
+Bad,42,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,21,middle,more than 5,high school,none or 1
+Bad,23,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,46,middle,more than 5,high school,more than 2
+Bad,39,middle,more than 5,high school,more than 2
+Bad,34,low,less than 4,high school,none or 1
+Bad,30,high,more than 5,university,none or 1
+Bad,21,low,more than 5,high school,more than 2
+Bad,35,middle,more than 5,high school,none or 1
+Bad,26,low,more than 5,high school,more than 2
+Bad,34,middle,less than 4,high school,none or 1
+Bad,38,middle,more than 5,high school,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,23,middle,more than 5,university,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,35,low,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,39,middle,more than 5,high school,more than 2
+Bad,21,low,less than 4,high school,none or 1
+Bad,26,middle,more than 5,university,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,33,middle,more than 5,high school,none or 1
+Bad,27,middle,more than 5,university,none or 1
+Bad,32,low,more than 5,university,none or 1
+Bad,26,low,more than 5,university,more than 2
+Bad,28,high,more than 5,university,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,35,middle,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,25,middle,less than 4,high school,none or 1
+Bad,38,middle,more than 5,university,more than 2
+Bad,23,high,more than 5,high school,none or 1
+Bad,25,low,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,none or 1
+Bad,45,low,more than 5,university,more than 2
+Bad,42,low,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,24,high,more than 5,university,more than 2
+Bad,25,high,more than 5,high school,more than 2
+Bad,48,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,47,low,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,27,high,more than 5,university,none or 1
+Bad,34,middle,more than 5,university,more than 2
+Bad,30,low,more than 5,university,none or 1
+Bad,25,middle,more than 5,high school,more than 2
+Bad,28,middle,less than 4,university,none or 1
+Bad,28,high,more than 5,high school,more than 2
+Bad,27,high,more than 5,high school,more than 2
+Bad,29,low,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,23,middle,less than 4,university,none or 1
+Bad,27,high,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,39,middle,more than 5,university,more than 2
+Bad,31,middle,more than 5,university,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,none or 1
+Bad,29,low,more than 5,high school,more than 2
+Bad,29,middle,less than 4,high school,none or 1
+Bad,25,low,more than 5,high school,more than 2
+Bad,36,high,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,more than 2
+Bad,41,high,more than 5,university,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,28,high,more than 5,university,more than 2
+Bad,38,middle,more than 5,university,more than 2
+Bad,25,middle,less than 4,university,none or 1
+Bad,25,low,more than 5,university,more than 2
+Bad,23,high,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,44,middle,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,37,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,37,low,less than 4,high school,none or 1
+Bad,36,high,more than 5,high school,more than 2
+Bad,37,middle,more than 5,high school,more than 2
+Bad,25,low,more than 5,university,more than 2
+Bad,47,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,29,low,more than 5,university,none or 1
+Bad,25,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,more than 2
+Bad,21,middle,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,24,low,less than 4,university,none or 1
+Bad,24,high,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,29,high,more than 5,high school,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,none or 1
+Bad,35,low,more than 5,high school,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,25,middle,more than 5,university,more than 2
+Bad,21,low,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,29,high,more than 5,university,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,27,high,more than 5,high school,more than 2
+Bad,25,middle,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,31,middle,more than 5,university,more than 2
+Bad,42,low,more than 5,university,more than 2
+Bad,34,middle,more than 5,high school,more than 2
+Bad,40,low,more than 5,high school,more than 2
+Bad,39,low,more than 5,university,none or 1
+Bad,42,middle,more than 5,university,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,24,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,52,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,38,middle,more than 5,high school,more than 2
+Bad,36,middle,more than 5,high school,more than 2
+Bad,34,high,more than 5,high school,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,43,low,more than 5,university,more than 2
+Bad,31,low,more than 5,high school,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,38,low,less than 4,university,none or 1
+Bad,29,low,more than 5,high school,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,31,high,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,more than 2
+Bad,27,low,more than 5,university,more than 2
+Bad,48,low,more than 5,university,more than 2
+Bad,43,low,more than 5,university,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,31,low,more than 5,university,more than 2
+Bad,32,high,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,32,high,more than 5,university,none or 1
+Bad,32,middle,more than 5,university,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,30,low,less than 4,university,none or 1
+Bad,21,low,more than 5,high school,more than 2
+Bad,26,middle,more than 5,high school,none or 1
+Bad,35,low,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,33,high,more than 5,high school,none or 1
+Bad,37,middle,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,more than 2
+Bad,35,high,less than 4,high school,none or 1
+Bad,28,low,more than 5,university,more than 2
+Bad,24,high,less than 4,university,more than 2
+Bad,21,low,more than 5,university,more than 2
+Bad,27,low,more than 5,high school,more than 2
+Bad,41,low,less than 4,high school,none or 1
+Bad,21,middle,more than 5,high school,more than 2
+Bad,31,high,more than 5,high school,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,23,high,more than 5,university,more than 2
+Bad,31,middle,more than 5,high school,more than 2
+Bad,23,low,more than 5,high school,more than 2
+Bad,32,low,more than 5,university,more than 2
+Bad,35,low,more than 5,high school,more than 2
+Bad,42,middle,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,32,high,less than 4,university,none or 1
+Bad,49,low,more than 5,university,more than 2
+Bad,35,low,more than 5,university,more than 2
+Bad,43,middle,more than 5,university,more than 2
+Bad,41,high,more than 5,high school,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,22,middle,more than 5,high school,more than 2
+Bad,36,middle,more than 5,university,more than 2
+Bad,43,middle,more than 5,university,more than 2
+Bad,22,low,more than 5,university,none or 1
+Bad,42,low,more than 5,high school,more than 2
+Bad,23,middle,more than 5,high school,more than 2
+Bad,34,high,more than 5,university,more than 2
+Bad,55,high,more than 5,university,more than 2
+Bad,25,high,more than 5,university,more than 2
+Bad,26,middle,more than 5,university,more than 2
+Bad,48,low,more than 5,university,more than 2
+Bad,33,low,more than 5,high school,more than 2
+Bad,22,middle,more than 5,university,none or 1
+Bad,24,low,less than 4,high school,none or 1
+Bad,40,middle,more than 5,high school,more than 2
+Bad,30,high,less than 4,university,none or 1
+Bad,29,low,less than 4,university,none or 1
+Bad,42,high,more than 5,high school,none or 1
+Bad,29,middle,more than 5,university,more than 2
+Bad,26,low,more than 5,university,more than 2
+Bad,31,middle,more than 5,university,more than 2
+Bad,30,middle,more than 5,university,none or 1
+Bad,30,high,more than 5,high school,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,31,middle,less than 4,high school,none or 1
+Bad,42,middle,more than 5,university,more than 2
+Bad,24,low,more than 5,high school,more than 2
+Bad,28,middle,more than 5,high school,more than 2
+Bad,39,low,more than 5,university,more than 2
+Bad,50,low,more than 5,university,more than 2
+Bad,31,middle,more than 5,university,more than 2
+Bad,28,middle,more than 5,university,more than 2
+Bad,22,low,more than 5,university,more than 2
+Bad,25,low,more than 5,high school,more than 2
+Bad,24,low,more than 5,university,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Bad,28,low,more than 5,high school,more than 2
+Bad,21,middle,more than 5,university,more than 2
+Bad,21,low,less than 4,university,more than 2
+Bad,30,low,more than 5,university,more than 2
+Bad,22,low,more than 5,high school,more than 2
+Bad,46,middle,more than 5,university,more than 2
+Bad,27,middle,more than 5,high school,none or 1
+Bad,23,middle,more than 5,high school,more than 2
+Bad,21,middle,less than 4,university,none or 1
+Bad,40,middle,more than 5,high school,more than 2
+Bad,34,low,more than 5,university,more than 2
+Bad,24,middle,more than 5,university,more than 2
+Good,57,high,less than 4,high school,none or 1
+Good,51,middle,more than 5,high school,more than 2
+Good,28,high,less than 4,high school,none or 1
+Good,29,low,less than 4,high school,none or 1
+Good,30,high,less than 4,high school,more than 2
+Good,29,high,more than 5,high school,more than 2
+Good,43,high,more than 5,high school,none or 1
+Good,36,middle,more than 5,high school,none or 1
+Good,24,middle,less than 4,high school,none or 1
+Good,36,high,less than 4,high school,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,42,middle,less than 4,university,none or 1
+Good,42,middle,more than 5,university,more than 2
+Good,44,middle,more than 5,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,40,high,more than 5,university,none or 1
+Good,55,high,more than 5,university,more than 2
+Good,38,middle,less than 4,high school,none or 1
+Good,41,low,more than 5,high school,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,31,middle,more than 5,high school,more than 2
+Good,35,middle,more than 5,high school,more than 2
+Good,39,high,more than 5,university,none or 1
+Good,49,high,more than 5,university,more than 2
+Good,45,middle,more than 5,university,more than 2
+Good,39,middle,less than 4,university,none or 1
+Good,39,middle,more than 5,high school,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,33,middle,less than 4,high school,none or 1
+Good,30,middle,more than 5,university,more than 2
+Good,39,middle,less than 4,university,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,28,middle,more than 5,high school,more than 2
+Good,23,high,less than 4,high school,none or 1
+Good,44,middle,less than 4,university,none or 1
+Good,40,low,more than 5,university,more than 2
+Good,22,middle,more than 5,university,none or 1
+Good,38,middle,more than 5,university,more than 2
+Good,44,high,less than 4,university,none or 1
+Good,36,middle,more than 5,high school,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,39,middle,more than 5,high school,more than 2
+Good,31,high,less than 4,university,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,33,middle,less than 4,university,none or 1
+Good,48,middle,less than 4,high school,none or 1
+Good,37,high,less than 4,high school,none or 1
+Good,27,high,less than 4,high school,none or 1
+Good,30,high,more than 5,high school,more than 2
+Good,29,high,less than 4,university,more than 2
+Good,30,high,more than 5,high school,more than 2
+Good,43,middle,less than 4,high school,none or 1
+Good,52,middle,less than 4,university,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,44,high,less than 4,university,none or 1
+Good,31,middle,less than 4,university,none or 1
+Good,38,middle,more than 5,high school,more than 2
+Good,28,middle,less than 4,high school,none or 1
+Good,48,middle,less than 4,high school,none or 1
+Good,41,high,more than 5,university,more than 2
+Good,59,middle,more than 5,high school,none or 1
+Good,25,high,more than 5,university,more than 2
+Good,38,middle,more than 5,high school,more than 2
+Good,40,high,more than 5,high school,none or 1
+Good,41,middle,less than 4,university,none or 1
+Good,44,high,less than 4,university,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,22,high,more than 5,high school,more than 2
+Good,42,high,less than 4,university,none or 1
+Good,49,low,more than 5,high school,none or 1
+Good,47,middle,more than 5,high school,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,50,middle,more than 5,university,more than 2
+Good,36,high,less than 4,university,none or 1
+Good,42,high,more than 5,university,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,43,high,more than 5,university,more than 2
+Good,33,high,more than 5,high school,more than 2
+Good,27,high,more than 5,high school,none or 1
+Good,26,high,more than 5,high school,more than 2
+Good,30,middle,more than 5,high school,more than 2
+Good,28,high,less than 4,high school,none or 1
+Good,37,high,more than 5,university,more than 2
+Good,45,middle,less than 4,university,none or 1
+Good,35,high,more than 5,university,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,37,middle,more than 5,high school,more than 2
+Good,38,high,less than 4,high school,none or 1
+Good,47,middle,less than 4,high school,none or 1
+Good,32,low,more than 5,high school,more than 2
+Good,37,low,less than 4,university,more than 2
+Good,56,middle,less than 4,high school,none or 1
+Good,28,middle,less than 4,high school,none or 1
+Good,38,high,less than 4,high school,none or 1
+Good,28,high,more than 5,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,40,high,less than 4,high school,none or 1
+Good,40,high,more than 5,university,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,36,high,more than 5,university,more than 2
+Good,38,middle,less than 4,university,none or 1
+Good,28,low,more than 5,high school,more than 2
+Good,49,middle,less than 4,university,more than 2
+Good,45,low,less than 4,university,none or 1
+Good,28,middle,more than 5,university,more than 2
+Good,23,middle,more than 5,high school,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,33,middle,more than 5,university,more than 2
+Good,33,middle,more than 5,university,more than 2
+Good,22,high,less than 4,university,none or 1
+Good,34,high,less than 4,high school,none or 1
+Good,36,high,less than 4,university,none or 1
+Good,36,middle,less than 4,university,more than 2
+Good,29,high,less than 4,university,none or 1
+Good,44,middle,more than 5,university,more than 2
+Good,48,high,less than 4,high school,none or 1
+Good,36,high,less than 4,university,none or 1
+Good,32,middle,more than 5,university,none or 1
+Good,48,high,more than 5,high school,more than 2
+Good,60,high,more than 5,university,more than 2
+Good,33,low,less than 4,high school,none or 1
+Good,49,high,more than 5,university,none or 1
+Good,46,middle,less than 4,university,none or 1
+Good,41,middle,more than 5,high school,more than 2
+Good,36,middle,more than 5,high school,more than 2
+Good,35,middle,less than 4,high school,more than 2
+Good,34,middle,less than 4,university,none or 1
+Good,50,high,more than 5,university,more than 2
+Good,38,high,less than 4,university,none or 1
+Good,35,middle,more than 5,university,more than 2
+Good,46,middle,less than 4,high school,none or 1
+Good,22,high,less than 4,university,none or 1
+Good,31,high,more than 5,high school,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,40,middle,less than 4,high school,none or 1
+Good,32,high,less than 4,high school,none or 1
+Good,42,high,less than 4,university,none or 1
+Good,35,high,more than 5,high school,more than 2
+Good,43,high,more than 5,high school,more than 2
+Good,32,middle,less than 4,high school,none or 1
+Good,40,middle,less than 4,high school,none or 1
+Good,52,middle,less than 4,high school,none or 1
+Good,36,middle,less than 4,high school,none or 1
+Good,42,high,less than 4,university,none or 1
+Good,21,middle,less than 4,university,none or 1
+Good,32,middle,less than 4,high school,none or 1
+Good,46,high,more than 5,university,more than 2
+Good,41,middle,less than 4,university,none or 1
+Good,58,middle,less than 4,high school,none or 1
+Good,49,middle,less than 4,high school,none or 1
+Good,38,high,more than 5,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,49,high,more than 5,university,more than 2
+Good,41,high,less than 4,university,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,24,middle,more than 5,high school,more than 2
+Good,40,high,more than 5,university,more than 2
+Good,34,middle,less than 4,university,none or 1
+Good,37,middle,less than 4,university,none or 1
+Good,29,high,less than 4,university,none or 1
+Good,30,high,more than 5,university,more than 2
+Good,48,high,less than 4,university,none or 1
+Good,28,low,less than 4,high school,none or 1
+Good,30,middle,more than 5,university,none or 1
+Good,50,high,more than 5,high school,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,33,middle,less than 4,university,more than 2
+Good,38,middle,less than 4,high school,none or 1
+Good,32,high,less than 4,high school,none or 1
+Good,38,high,more than 5,university,more than 2
+Good,40,middle,less than 4,university,none or 1
+Good,41,middle,more than 5,university,more than 2
+Good,27,high,less than 4,high school,more than 2
+Good,37,middle,more than 5,university,more than 2
+Good,41,high,less than 4,university,none or 1
+Good,51,high,more than 5,university,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,31,low,less than 4,university,none or 1
+Good,42,middle,less than 4,high school,none or 1
+Good,25,middle,less than 4,high school,none or 1
+Good,41,low,more than 5,high school,more than 2
+Good,33,middle,more than 5,high school,more than 2
+Good,21,middle,less than 4,high school,none or 1
+Good,29,high,more than 5,university,more than 2
+Good,36,high,less than 4,university,none or 1
+Good,28,high,less than 4,high school,none or 1
+Good,29,high,more than 5,university,more than 2
+Good,38,high,more than 5,university,more than 2
+Good,35,high,more than 5,high school,more than 2
+Good,43,middle,more than 5,high school,more than 2
+Good,39,middle,more than 5,university,more than 2
+Good,42,high,less than 4,university,none or 1
+Good,29,middle,less than 4,university,none or 1
+Good,37,high,more than 5,university,more than 2
+Good,34,high,more than 5,high school,none or 1
+Good,34,middle,more than 5,high school,more than 2
+Good,28,high,less than 4,university,none or 1
+Good,28,middle,more than 5,university,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,32,high,more than 5,high school,more than 2
+Good,54,high,more than 5,university,more than 2
+Good,34,high,less than 4,university,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,30,high,more than 5,high school,none or 1
+Good,21,high,more than 5,university,more than 2
+Good,30,high,less than 4,high school,none or 1
+Good,40,high,less than 4,university,none or 1
+Good,40,middle,less than 4,high school,none or 1
+Good,49,high,less than 4,university,none or 1
+Good,42,middle,less than 4,high school,none or 1
+Good,32,middle,less than 4,university,none or 1
+Good,43,high,less than 4,university,none or 1
+Good,48,high,less than 4,high school,none or 1
+Good,35,high,more than 5,high school,more than 2
+Good,43,middle,less than 4,university,none or 1
+Good,27,high,less than 4,high school,none or 1
+Good,31,high,less than 4,high school,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,29,high,less than 4,high school,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,53,high,more than 5,high school,none or 1
+Good,44,middle,less than 4,university,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,30,middle,less than 4,university,none or 1
+Good,47,high,less than 4,high school,none or 1
+Good,32,low,more than 5,high school,none or 1
+Good,27,low,less than 4,university,none or 1
+Good,47,high,more than 5,high school,more than 2
+Good,41,middle,more than 5,university,more than 2
+Good,46,high,more than 5,university,more than 2
+Good,27,high,more than 5,high school,more than 2
+Good,58,high,more than 5,high school,more than 2
+Good,53,middle,less than 4,university,none or 1
+Good,44,low,more than 5,university,more than 2
+Good,47,high,less than 4,university,none or 1
+Good,23,high,less than 4,high school,none or 1
+Good,25,high,less than 4,university,none or 1
+Good,25,high,less than 4,high school,none or 1
+Good,36,middle,less than 4,high school,none or 1
+Good,41,low,more than 5,university,more than 2
+Good,45,high,less than 4,high school,none or 1
+Good,42,middle,more than 5,high school,more than 2
+Good,35,high,less than 4,high school,more than 2
+Good,45,low,less than 4,high school,none or 1
+Good,36,high,more than 5,high school,more than 2
+Good,21,middle,less than 4,university,none or 1
+Good,43,high,more than 5,high school,more than 2
+Good,30,middle,more than 5,university,more than 2
+Good,22,low,less than 4,university,none or 1
+Good,48,middle,less than 4,high school,none or 1
+Good,28,middle,less than 4,university,more than 2
+Good,47,low,less than 4,high school,none or 1
+Good,44,high,less than 4,university,none or 1
+Good,34,middle,more than 5,high school,more than 2
+Good,25,high,less than 4,high school,none or 1
+Good,33,high,more than 5,high school,more than 2
+Good,35,middle,less than 4,high school,more than 2
+Good,52,high,more than 5,high school,more than 2
+Good,36,high,more than 5,university,more than 2
+Good,25,middle,less than 4,high school,more than 2
+Good,48,high,more than 5,university,more than 2
+Good,30,high,more than 5,high school,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,38,high,more than 5,high school,none or 1
+Good,26,middle,less than 4,high school,none or 1
+Good,40,low,less than 4,high school,none or 1
+Good,40,high,more than 5,high school,more than 2
+Good,34,middle,less than 4,high school,more than 2
+Good,44,high,less than 4,university,none or 1
+Good,47,middle,more than 5,high school,none or 1
+Good,48,high,more than 5,university,more than 2
+Good,49,high,more than 5,high school,more than 2
+Good,32,middle,less than 4,university,more than 2
+Good,32,high,less than 4,university,more than 2
+Good,40,high,more than 5,university,more than 2
+Good,45,high,less than 4,high school,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,41,middle,less than 4,university,none or 1
+Good,37,high,more than 5,high school,more than 2
+Good,34,middle,more than 5,university,none or 1
+Good,29,middle,less than 4,university,more than 2
+Good,45,high,more than 5,university,more than 2
+Good,27,high,more than 5,high school,more than 2
+Good,50,high,more than 5,university,more than 2
+Good,33,middle,less than 4,university,more than 2
+Good,33,high,less than 4,high school,none or 1
+Good,25,middle,more than 5,high school,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,50,high,more than 5,university,more than 2
+Good,45,middle,more than 5,university,more than 2
+Good,45,middle,less than 4,university,none or 1
+Good,50,middle,more than 5,high school,more than 2
+Good,32,middle,less than 4,university,none or 1
+Good,31,middle,more than 5,high school,none or 1
+Good,46,high,more than 5,high school,more than 2
+Good,43,low,less than 4,high school,none or 1
+Good,31,high,more than 5,university,more than 2
+Good,41,middle,more than 5,university,more than 2
+Good,28,middle,less than 4,high school,none or 1
+Good,49,high,more than 5,high school,more than 2
+Good,37,high,more than 5,high school,none or 1
+Good,41,middle,less than 4,university,none or 1
+Good,37,middle,more than 5,university,more than 2
+Good,48,high,less than 4,university,none or 1
+Good,49,middle,more than 5,university,more than 2
+Good,48,middle,more than 5,university,more than 2
+Good,48,middle,less than 4,university,none or 1
+Good,41,high,more than 5,high school,none or 1
+Good,49,high,more than 5,university,more than 2
+Good,24,middle,more than 5,high school,more than 2
+Good,31,high,less than 4,university,none or 1
+Good,41,high,less than 4,university,none or 1
+Good,45,middle,more than 5,high school,more than 2
+Good,46,middle,less than 4,high school,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,30,low,less than 4,university,none or 1
+Good,48,high,more than 5,high school,more than 2
+Good,29,high,less than 4,high school,none or 1
+Good,35,middle,more than 5,high school,more than 2
+Good,39,high,more than 5,high school,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,31,middle,more than 5,high school,more than 2
+Good,44,high,more than 5,high school,more than 2
+Good,27,middle,less than 4,university,none or 1
+Good,39,middle,more than 5,university,more than 2
+Good,39,high,less than 4,university,more than 2
+Good,51,middle,more than 5,high school,more than 2
+Good,39,high,less than 4,university,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,23,high,less than 4,university,none or 1
+Good,32,high,more than 5,high school,none or 1
+Good,32,high,more than 5,high school,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,23,low,less than 4,university,none or 1
+Good,25,middle,less than 4,university,none or 1
+Good,51,middle,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,50,middle,less than 4,high school,none or 1
+Good,45,high,more than 5,university,more than 2
+Good,28,high,more than 5,university,more than 2
+Good,29,high,less than 4,university,none or 1
+Good,25,high,more than 5,university,more than 2
+Good,49,high,more than 5,high school,more than 2
+Good,44,high,more than 5,university,more than 2
+Good,39,middle,less than 4,university,none or 1
+Good,36,high,more than 5,high school,more than 2
+Good,41,high,more than 5,high school,more than 2
+Good,38,high,less than 4,high school,none or 1
+Good,42,high,less than 4,university,none or 1
+Good,36,middle,more than 5,university,none or 1
+Good,35,middle,less than 4,university,none or 1
+Good,26,middle,more than 5,high school,more than 2
+Good,45,high,more than 5,high school,more than 2
+Good,25,high,more than 5,high school,more than 2
+Good,46,high,less than 4,university,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,26,middle,less than 4,high school,none or 1
+Good,34,high,less than 4,university,more than 2
+Good,44,middle,more than 5,university,more than 2
+Good,28,high,more than 5,high school,more than 2
+Good,48,middle,more than 5,high school,more than 2
+Good,39,high,more than 5,high school,more than 2
+Good,31,high,less than 4,high school,none or 1
+Good,44,middle,more than 5,university,more than 2
+Good,45,middle,more than 5,university,more than 2
+Good,39,middle,less than 4,university,none or 1
+Good,47,low,less than 4,university,none or 1
+Good,39,high,less than 4,university,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,29,middle,less than 4,high school,none or 1
+Good,21,middle,more than 5,university,more than 2
+Good,35,high,more than 5,high school,more than 2
+Good,42,low,more than 5,university,none or 1
+Good,42,middle,more than 5,university,more than 2
+Good,48,middle,more than 5,university,none or 1
+Good,39,middle,more than 5,university,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,40,middle,more than 5,high school,none or 1
+Good,51,middle,less than 4,university,none or 1
+Good,33,middle,more than 5,university,none or 1
+Good,23,middle,less than 4,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,27,middle,more than 5,high school,more than 2
+Good,48,high,more than 5,university,none or 1
+Good,41,middle,more than 5,high school,more than 2
+Good,35,middle,more than 5,university,more than 2
+Good,44,middle,less than 4,university,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,23,high,more than 5,high school,more than 2
+Good,30,high,more than 5,high school,more than 2
+Good,44,low,more than 5,university,more than 2
+Good,40,middle,less than 4,university,none or 1
+Good,29,middle,more than 5,high school,more than 2
+Good,51,middle,more than 5,high school,more than 2
+Good,38,high,less than 4,university,none or 1
+Good,43,high,less than 4,university,none or 1
+Good,33,high,less than 4,university,none or 1
+Good,36,high,less than 4,high school,none or 1
+Good,27,low,less than 4,high school,none or 1
+Good,33,middle,less than 4,university,none or 1
+Good,32,high,less than 4,university,none or 1
+Good,46,high,more than 5,university,more than 2
+Good,35,middle,more than 5,high school,none or 1
+Good,48,high,less than 4,high school,none or 1
+Good,46,middle,more than 5,university,more than 2
+Good,27,middle,less than 4,university,none or 1
+Good,28,high,less than 4,university,none or 1
+Good,29,high,more than 5,high school,more than 2
+Good,39,middle,more than 5,university,more than 2
+Good,31,high,more than 5,high school,more than 2
+Good,36,high,more than 5,university,more than 2
+Good,50,high,more than 5,high school,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,34,high,more than 5,university,more than 2
+Good,47,high,more than 5,university,more than 2
+Good,33,high,less than 4,university,none or 1
+Good,48,high,more than 5,university,more than 2
+Good,23,low,more than 5,university,more than 2
+Good,33,low,less than 4,university,none or 1
+Good,36,middle,more than 5,high school,more than 2
+Good,47,low,less than 4,high school,none or 1
+Good,26,high,more than 5,university,more than 2
+Good,32,middle,more than 5,university,more than 2
+Good,29,middle,more than 5,high school,none or 1
+Good,35,middle,less than 4,university,none or 1
+Good,49,middle,more than 5,university,more than 2
+Good,34,high,more than 5,university,more than 2
+Good,28,middle,more than 5,high school,more than 2
+Good,34,middle,more than 5,university,more than 2
+Good,41,middle,less than 4,university,none or 1
+Good,28,high,less than 4,high school,none or 1
+Good,34,middle,less than 4,high school,more than 2
+Good,56,high,less than 4,high school,more than 2
+Good,28,middle,more than 5,high school,more than 2
+Good,50,middle,more than 5,university,more than 2
+Good,28,middle,more than 5,high school,more than 2
+Good,22,high,more than 5,high school,more than 2
+Good,22,high,more than 5,university,more than 2
+Good,27,high,less than 4,high school,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,34,middle,more than 5,high school,more than 2
+Good,31,high,more than 5,university,more than 2
+Good,47,high,less than 4,high school,none or 1
+Good,32,middle,more than 5,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,38,high,less than 4,university,none or 1
+Good,28,middle,more than 5,university,none or 1
+Good,23,low,less than 4,high school,none or 1
+Good,51,high,more than 5,high school,more than 2
+Good,29,middle,more than 5,high school,more than 2
+Good,22,high,less than 4,high school,none or 1
+Good,40,middle,more than 5,university,more than 2
+Good,22,middle,more than 5,university,more than 2
+Good,26,high,more than 5,high school,none or 1
+Good,34,high,more than 5,university,more than 2
+Good,47,middle,less than 4,university,none or 1
+Good,54,middle,more than 5,university,more than 2
+Good,30,middle,more than 5,high school,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,31,middle,less than 4,high school,none or 1
+Good,40,middle,more than 5,high school,more than 2
+Good,21,high,more than 5,university,more than 2
+Good,60,high,more than 5,university,more than 2
+Good,29,high,less than 4,high school,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,22,middle,more than 5,university,more than 2
+Good,54,high,less than 4,high school,none or 1
+Good,50,high,less than 4,university,none or 1
+Good,42,middle,less than 4,university,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,34,middle,less than 4,university,none or 1
+Good,27,middle,more than 5,high school,more than 2
+Good,21,middle,more than 5,high school,more than 2
+Good,46,middle,more than 5,high school,more than 2
+Good,54,high,more than 5,high school,more than 2
+Good,44,middle,more than 5,university,none or 1
+Good,33,high,less than 4,university,more than 2
+Good,34,middle,less than 4,high school,more than 2
+Good,27,middle,less than 4,high school,none or 1
+Good,40,middle,less than 4,university,none or 1
+Good,58,high,more than 5,university,more than 2
+Good,30,middle,more than 5,university,more than 2
+Good,51,middle,less than 4,university,none or 1
+Good,58,high,more than 5,high school,none or 1
+Good,48,low,more than 5,high school,more than 2
+Good,63,middle,more than 5,high school,none or 1
+Good,40,middle,more than 5,university,more than 2
+Good,43,high,more than 5,university,more than 2
+Good,36,middle,more than 5,university,none or 1
+Good,26,high,less than 4,high school,none or 1
+Good,40,middle,more than 5,university,more than 2
+Good,40,high,less than 4,university,none or 1
+Good,47,high,less than 4,high school,none or 1
+Good,26,middle,more than 5,university,more than 2
+Good,41,middle,more than 5,high school,more than 2
+Good,38,middle,more than 5,high school,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,37,middle,more than 5,university,more than 2
+Good,45,high,more than 5,university,more than 2
+Good,48,high,more than 5,high school,more than 2
+Good,29,high,less than 4,university,none or 1
+Good,43,high,less than 4,university,none or 1
+Good,44,middle,more than 5,high school,more than 2
+Good,38,high,more than 5,university,more than 2
+Good,39,high,less than 4,high school,none or 1
+Good,28,high,more than 5,high school,more than 2
+Good,26,high,more than 5,university,more than 2
+Good,39,high,less than 4,university,none or 1
+Good,32,high,more than 5,university,more than 2
+Good,34,high,less than 4,university,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,32,high,less than 4,university,none or 1
+Good,31,high,more than 5,university,more than 2
+Good,24,high,more than 5,high school,more than 2
+Good,25,middle,less than 4,high school,more than 2
+Good,39,high,more than 5,university,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,38,middle,less than 4,university,none or 1
+Good,42,middle,less than 4,high school,none or 1
+Good,29,middle,less than 4,high school,none or 1
+Good,34,high,less than 4,university,more than 2
+Good,42,high,less than 4,university,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,42,high,more than 5,university,none or 1
+Good,47,high,more than 5,university,more than 2
+Good,32,high,less than 4,high school,none or 1
+Good,41,high,more than 5,high school,more than 2
+Good,24,middle,less than 4,high school,none or 1
+Good,31,middle,more than 5,university,more than 2
+Good,28,middle,less than 4,high school,more than 2
+Good,21,middle,more than 5,university,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,30,high,less than 4,high school,none or 1
+Good,29,high,less than 4,university,none or 1
+Good,40,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,university,none or 1
+Good,31,middle,more than 5,high school,more than 2
+Good,40,middle,less than 4,university,more than 2
+Good,28,high,less than 4,university,none or 1
+Good,48,middle,more than 5,university,more than 2
+Good,39,high,less than 4,university,more than 2
+Good,32,middle,less than 4,university,none or 1
+Good,26,high,less than 4,high school,none or 1
+Good,28,middle,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,35,high,less than 4,high school,none or 1
+Good,41,middle,less than 4,university,none or 1
+Good,32,high,more than 5,high school,more than 2
+Good,37,middle,less than 4,high school,none or 1
+Good,38,high,less than 4,high school,none or 1
+Good,47,middle,less than 4,university,none or 1
+Good,43,middle,less than 4,high school,none or 1
+Good,38,middle,more than 5,university,more than 2
+Good,37,middle,more than 5,high school,none or 1
+Good,50,middle,less than 4,high school,none or 1
+Good,33,middle,more than 5,university,more than 2
+Good,26,middle,more than 5,high school,more than 2
+Good,31,low,more than 5,university,none or 1
+Good,33,high,less than 4,university,none or 1
+Good,34,middle,less than 4,high school,none or 1
+Good,43,middle,less than 4,university,none or 1
+Good,34,middle,more than 5,university,more than 2
+Good,26,high,more than 5,high school,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,24,middle,more than 5,high school,more than 2
+Good,35,middle,more than 5,university,more than 2
+Good,46,middle,more than 5,high school,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,32,high,more than 5,high school,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,43,high,more than 5,high school,none or 1
+Good,48,high,less than 4,university,none or 1
+Good,40,high,more than 5,university,more than 2
+Good,40,middle,less than 4,high school,none or 1
+Good,42,middle,more than 5,university,more than 2
+Good,33,high,less than 4,high school,none or 1
+Good,35,middle,more than 5,university,more than 2
+Good,39,high,more than 5,university,more than 2
+Good,37,middle,less than 4,university,none or 1
+Good,46,high,more than 5,university,more than 2
+Good,29,high,less than 4,university,none or 1
+Good,41,high,more than 5,high school,more than 2
+Good,33,high,more than 5,high school,more than 2
+Good,26,middle,less than 4,high school,none or 1
+Good,21,high,less than 4,high school,none or 1
+Good,44,high,less than 4,high school,none or 1
+Good,31,middle,less than 4,university,none or 1
+Good,27,high,more than 5,university,more than 2
+Good,46,middle,less than 4,high school,none or 1
+Good,39,high,less than 4,high school,none or 1
+Good,49,middle,more than 5,high school,more than 2
+Good,30,high,more than 5,high school,more than 2
+Good,42,middle,less than 4,high school,none or 1
+Good,30,high,less than 4,high school,none or 1
+Good,46,middle,more than 5,university,more than 2
+Good,38,high,more than 5,university,more than 2
+Good,33,high,less than 4,university,more than 2
+Good,31,high,more than 5,university,more than 2
+Good,42,middle,more than 5,high school,none or 1
+Good,38,middle,less than 4,high school,none or 1
+Good,29,middle,more than 5,high school,none or 1
+Good,25,middle,more than 5,high school,more than 2
+Good,33,high,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,25,middle,less than 4,high school,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,38,middle,less than 4,high school,none or 1
+Good,47,middle,less than 4,university,more than 2
+Good,35,high,less than 4,university,none or 1
+Good,28,middle,more than 5,university,more than 2
+Good,40,low,less than 4,university,none or 1
+Good,33,middle,less than 4,university,none or 1
+Good,23,high,more than 5,university,none or 1
+Good,43,middle,more than 5,high school,more than 2
+Good,54,high,more than 5,high school,more than 2
+Good,47,low,less than 4,university,none or 1
+Good,24,high,less than 4,high school,none or 1
+Good,45,middle,less than 4,high school,none or 1
+Good,25,high,more than 5,university,none or 1
+Good,43,high,more than 5,high school,more than 2
+Good,54,low,less than 4,university,none or 1
+Good,44,high,less than 4,high school,none or 1
+Good,35,low,less than 4,university,none or 1
+Good,43,low,more than 5,university,more than 2
+Good,42,high,more than 5,university,more than 2
+Good,35,middle,more than 5,high school,more than 2
+Good,26,high,more than 5,university,none or 1
+Good,34,middle,less than 4,high school,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,52,middle,more than 5,university,more than 2
+Good,38,middle,less than 4,high school,none or 1
+Good,35,high,more than 5,high school,more than 2
+Good,48,high,more than 5,university,none or 1
+Good,28,low,more than 5,university,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,26,middle,less than 4,high school,none or 1
+Good,45,high,less than 4,high school,none or 1
+Good,30,middle,more than 5,high school,more than 2
+Good,32,high,less than 4,high school,none or 1
+Good,24,middle,more than 5,high school,more than 2
+Good,30,high,less than 4,university,none or 1
+Good,38,high,less than 4,high school,none or 1
+Good,31,high,less than 4,university,none or 1
+Good,53,middle,more than 5,high school,more than 2
+Good,26,middle,more than 5,high school,more than 2
+Good,27,high,more than 5,high school,none or 1
+Good,24,high,more than 5,university,more than 2
+Good,26,high,more than 5,high school,more than 2
+Good,24,middle,less than 4,university,none or 1
+Good,32,middle,less than 4,university,none or 1
+Good,41,high,more than 5,university,more than 2
+Good,24,high,less than 4,university,none or 1
+Good,27,high,less than 4,high school,none or 1
+Good,39,high,less than 4,high school,none or 1
+Good,33,middle,more than 5,university,more than 2
+Good,43,middle,less than 4,high school,none or 1
+Good,42,middle,less than 4,high school,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,37,high,less than 4,high school,none or 1
+Good,44,high,more than 5,university,none or 1
+Good,54,high,less than 4,high school,none or 1
+Good,49,middle,more than 5,university,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,37,high,more than 5,high school,more than 2
+Good,29,middle,less than 4,high school,none or 1
+Good,61,high,less than 4,high school,none or 1
+Good,45,middle,more than 5,university,more than 2
+Good,41,high,less than 4,university,none or 1
+Good,32,middle,less than 4,university,none or 1
+Good,44,middle,more than 5,high school,more than 2
+Good,42,high,less than 4,high school,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,29,low,more than 5,university,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,30,middle,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,44,middle,more than 5,high school,more than 2
+Good,32,high,less than 4,university,none or 1
+Good,28,middle,more than 5,high school,more than 2
+Good,23,high,less than 4,high school,none or 1
+Good,43,middle,more than 5,high school,none or 1
+Good,35,middle,more than 5,high school,more than 2
+Good,50,high,less than 4,high school,none or 1
+Good,42,middle,less than 4,high school,none or 1
+Good,44,middle,more than 5,high school,more than 2
+Good,41,high,more than 5,high school,more than 2
+Good,30,middle,more than 5,high school,none or 1
+Good,44,high,less than 4,university,none or 1
+Good,40,middle,more than 5,high school,more than 2
+Good,38,low,more than 5,university,more than 2
+Good,41,high,more than 5,high school,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,43,high,more than 5,university,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,50,middle,more than 5,university,more than 2
+Good,41,middle,less than 4,university,none or 1
+Good,46,high,less than 4,high school,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,39,high,less than 4,university,none or 1
+Good,42,middle,more than 5,high school,more than 2
+Good,38,low,more than 5,high school,more than 2
+Good,51,high,more than 5,high school,more than 2
+Good,36,high,more than 5,high school,more than 2
+Good,44,middle,less than 4,high school,none or 1
+Good,28,middle,more than 5,university,more than 2
+Good,35,high,less than 4,high school,none or 1
+Good,60,high,more than 5,high school,more than 2
+Good,33,middle,less than 4,university,none or 1
+Good,37,middle,less than 4,university,none or 1
+Good,37,high,more than 5,high school,more than 2
+Good,35,high,more than 5,high school,more than 2
+Good,48,low,more than 5,high school,more than 2
+Good,33,low,more than 5,high school,more than 2
+Good,33,middle,less than 4,high school,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,28,high,more than 5,high school,more than 2
+Good,35,high,less than 4,high school,none or 1
+Good,51,low,less than 4,high school,none or 1
+Good,27,low,more than 5,university,more than 2
+Good,30,high,more than 5,university,more than 2
+Good,27,middle,more than 5,high school,more than 2
+Good,45,middle,less than 4,university,more than 2
+Good,37,low,more than 5,university,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,24,middle,less than 4,high school,none or 1
+Good,45,high,more than 5,university,none or 1
+Good,34,middle,more than 5,university,more than 2
+Good,30,high,less than 4,university,none or 1
+Good,34,high,more than 5,university,more than 2
+Good,42,high,less than 4,high school,more than 2
+Good,23,high,more than 5,university,more than 2
+Good,25,middle,less than 4,university,none or 1
+Good,26,high,more than 5,university,more than 2
+Good,21,low,less than 4,high school,none or 1
+Good,46,high,more than 5,university,none or 1
+Good,29,high,more than 5,university,more than 2
+Good,29,middle,more than 5,university,more than 2
+Good,34,high,more than 5,university,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,44,middle,more than 5,university,more than 2
+Good,27,middle,less than 4,university,none or 1
+Good,46,high,less than 4,university,none or 1
+Good,48,low,less than 4,high school,none or 1
+Good,43,middle,less than 4,high school,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,30,high,more than 5,high school,more than 2
+Good,25,high,less than 4,high school,none or 1
+Good,40,middle,more than 5,high school,more than 2
+Good,49,high,less than 4,university,none or 1
+Good,48,middle,more than 5,university,more than 2
+Good,43,middle,less than 4,high school,none or 1
+Good,42,high,more than 5,university,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,46,middle,less than 4,high school,none or 1
+Good,31,high,more than 5,university,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,33,high,more than 5,university,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,26,middle,less than 4,university,none or 1
+Good,35,high,less than 4,high school,none or 1
+Good,31,middle,more than 5,university,more than 2
+Good,44,high,less than 4,university,none or 1
+Good,39,middle,less than 4,university,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,30,middle,more than 5,university,more than 2
+Good,45,high,less than 4,high school,more than 2
+Good,27,high,more than 5,high school,more than 2
+Good,40,middle,less than 4,high school,none or 1
+Good,31,high,more than 5,high school,more than 2
+Good,43,middle,less than 4,university,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,31,middle,more than 5,university,none or 1
+Good,23,high,more than 5,high school,more than 2
+Good,37,middle,more than 5,university,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,46,middle,less than 4,high school,none or 1
+Good,40,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,high school,none or 1
+Good,43,high,less than 4,high school,none or 1
+Good,59,middle,more than 5,university,more than 2
+Good,36,middle,more than 5,high school,more than 2
+Good,32,middle,more than 5,university,more than 2
+Good,37,high,more than 5,university,more than 2
+Good,43,high,more than 5,high school,more than 2
+Good,40,high,less than 4,high school,none or 1
+Good,27,high,less than 4,high school,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,50,middle,more than 5,university,more than 2
+Good,51,high,more than 5,university,none or 1
+Good,28,high,more than 5,high school,none or 1
+Good,47,middle,more than 5,high school,more than 2
+Good,35,high,more than 5,university,more than 2
+Good,34,high,less than 4,university,none or 1
+Good,33,middle,less than 4,high school,none or 1
+Good,24,middle,less than 4,university,more than 2
+Good,34,high,more than 5,university,more than 2
+Good,38,middle,more than 5,university,more than 2
+Good,38,high,less than 4,university,none or 1
+Good,22,high,more than 5,university,more than 2
+Good,29,high,less than 4,university,none or 1
+Good,51,middle,less than 4,high school,none or 1
+Good,23,high,less than 4,high school,none or 1
+Good,44,high,less than 4,university,more than 2
+Good,43,high,less than 4,university,none or 1
+Good,33,high,less than 4,university,none or 1
+Good,55,high,less than 4,high school,none or 1
+Good,22,middle,less than 4,high school,none or 1
+Good,32,high,less than 4,university,none or 1
+Good,24,high,more than 5,high school,more than 2
+Good,29,low,less than 4,university,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,27,middle,less than 4,high school,none or 1
+Good,40,high,more than 5,university,more than 2
+Good,28,high,more than 5,high school,more than 2
+Good,34,middle,less than 4,university,more than 2
+Good,49,high,more than 5,university,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,36,high,less than 4,high school,none or 1
+Good,46,high,more than 5,university,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,42,high,more than 5,high school,more than 2
+Good,33,high,less than 4,high school,none or 1
+Good,47,low,more than 5,university,more than 2
+Good,35,middle,more than 5,university,more than 2
+Good,27,middle,less than 4,university,none or 1
+Good,39,high,less than 4,high school,none or 1
+Good,29,middle,less than 4,high school,none or 1
+Good,50,middle,less than 4,university,none or 1
+Good,46,middle,less than 4,high school,none or 1
+Good,38,high,less than 4,university,more than 2
+Good,53,middle,less than 4,high school,none or 1
+Good,31,middle,more than 5,high school,more than 2
+Good,32,high,more than 5,university,more than 2
+Good,24,high,less than 4,university,none or 1
+Good,29,middle,less than 4,university,none or 1
+Good,47,high,more than 5,university,more than 2
+Good,53,middle,less than 4,high school,none or 1
+Good,36,middle,less than 4,high school,none or 1
+Good,39,high,less than 4,university,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,29,middle,more than 5,university,more than 2
+Good,56,middle,less than 4,high school,none or 1
+Good,40,high,less than 4,high school,more than 2
+Good,27,high,less than 4,university,none or 1
+Good,42,high,more than 5,university,more than 2
+Good,29,high,less than 4,high school,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,31,high,less than 4,university,none or 1
+Good,40,high,more than 5,high school,more than 2
+Good,31,middle,less than 4,high school,none or 1
+Good,54,middle,more than 5,university,more than 2
+Good,46,middle,less than 4,high school,none or 1
+Good,41,middle,more than 5,high school,more than 2
+Good,46,high,more than 5,high school,more than 2
+Good,51,high,more than 5,university,more than 2
+Good,40,middle,less than 4,high school,none or 1
+Good,33,middle,more than 5,university,more than 2
+Good,23,high,less than 4,high school,none or 1
+Good,25,middle,more than 5,high school,more than 2
+Good,34,middle,less than 4,university,none or 1
+Good,33,middle,more than 5,high school,more than 2
+Good,40,high,less than 4,high school,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,29,high,less than 4,university,none or 1
+Good,37,middle,less than 4,high school,none or 1
+Good,36,high,more than 5,university,more than 2
+Good,52,middle,less than 4,high school,none or 1
+Good,25,high,less than 4,university,none or 1
+Good,28,middle,less than 4,university,none or 1
+Good,36,high,more than 5,university,none or 1
+Good,41,high,more than 5,university,more than 2
+Good,48,high,more than 5,university,more than 2
+Good,52,middle,more than 5,high school,more than 2
+Good,37,high,less than 4,high school,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,university,none or 1
+Good,40,middle,less than 4,high school,none or 1
+Good,29,high,more than 5,university,more than 2
+Good,42,high,less than 4,high school,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,42,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,university,none or 1
+Good,21,low,less than 4,university,none or 1
+Good,29,middle,less than 4,high school,none or 1
+Good,26,middle,less than 4,high school,none or 1
+Good,25,middle,less than 4,high school,none or 1
+Good,37,high,less than 4,high school,none or 1
+Good,28,high,less than 4,university,none or 1
+Good,51,middle,more than 5,university,more than 2
+Good,48,high,more than 5,high school,none or 1
+Good,21,middle,less than 4,university,more than 2
+Good,38,low,more than 5,university,more than 2
+Good,32,high,less than 4,high school,none or 1
+Good,35,low,more than 5,high school,more than 2
+Good,54,high,more than 5,high school,more than 2
+Good,35,middle,more than 5,university,more than 2
+Good,40,high,more than 5,university,none or 1
+Good,37,high,less than 4,university,none or 1
+Good,32,middle,less than 4,university,more than 2
+Good,34,middle,less than 4,high school,none or 1
+Good,31,high,more than 5,university,none or 1
+Good,27,high,more than 5,university,none or 1
+Good,41,middle,less than 4,university,more than 2
+Good,27,low,more than 5,university,more than 2
+Good,37,middle,less than 4,university,none or 1
+Good,41,middle,more than 5,university,none or 1
+Good,35,low,less than 4,high school,none or 1
+Good,21,high,more than 5,university,more than 2
+Good,36,high,less than 4,university,none or 1
+Good,30,low,more than 5,university,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,39,high,less than 4,high school,none or 1
+Good,29,high,more than 5,high school,more than 2
+Good,37,high,more than 5,university,more than 2
+Good,39,high,more than 5,high school,more than 2
+Good,28,high,less than 4,high school,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,29,middle,more than 5,high school,more than 2
+Good,21,middle,less than 4,university,none or 1
+Good,33,middle,less than 4,high school,none or 1
+Good,52,high,less than 4,university,none or 1
+Good,50,high,more than 5,high school,more than 2
+Good,46,high,less than 4,university,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,42,middle,more than 5,university,none or 1
+Good,39,high,more than 5,high school,more than 2
+Good,33,middle,more than 5,high school,none or 1
+Good,29,high,less than 4,high school,none or 1
+Good,47,middle,more than 5,high school,more than 2
+Good,40,high,less than 4,high school,none or 1
+Good,23,middle,more than 5,university,more than 2
+Good,45,middle,more than 5,high school,more than 2
+Good,47,high,more than 5,high school,more than 2
+Good,26,high,less than 4,university,none or 1
+Good,53,middle,less than 4,university,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,42,low,less than 4,university,none or 1
+Good,48,low,more than 5,high school,more than 2
+Good,21,high,less than 4,university,none or 1
+Good,34,high,less than 4,university,none or 1
+Good,45,middle,more than 5,high school,more than 2
+Good,43,middle,less than 4,university,none or 1
+Good,31,high,more than 5,high school,more than 2
+Good,31,middle,more than 5,university,more than 2
+Good,36,high,more than 5,high school,more than 2
+Good,34,middle,less than 4,high school,none or 1
+Good,25,high,more than 5,high school,more than 2
+Good,25,low,less than 4,university,none or 1
+Good,44,middle,more than 5,university,more than 2
+Good,36,high,more than 5,university,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,47,low,more than 5,high school,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,34,low,less than 4,high school,none or 1
+Good,44,middle,less than 4,university,none or 1
+Good,35,high,less than 4,high school,none or 1
+Good,37,low,more than 5,high school,more than 2
+Good,31,high,less than 4,university,none or 1
+Good,26,low,more than 5,high school,more than 2
+Good,31,low,less than 4,university,none or 1
+Good,55,middle,less than 4,university,none or 1
+Good,44,middle,less than 4,high school,none or 1
+Good,48,high,more than 5,high school,more than 2
+Good,28,low,more than 5,university,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,33,high,less than 4,university,none or 1
+Good,43,middle,more than 5,high school,more than 2
+Good,50,middle,more than 5,university,more than 2
+Good,29,low,less than 4,university,none or 1
+Good,35,high,more than 5,university,more than 2
+Good,37,middle,less than 4,high school,none or 1
+Good,28,high,more than 5,high school,more than 2
+Good,38,middle,more than 5,high school,none or 1
+Good,23,middle,more than 5,university,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,27,high,more than 5,high school,more than 2
+Good,30,high,more than 5,university,more than 2
+Good,39,middle,more than 5,high school,more than 2
+Good,30,high,more than 5,university,more than 2
+Good,41,middle,less than 4,high school,none or 1
+Good,39,middle,more than 5,university,none or 1
+Good,31,low,less than 4,university,none or 1
+Good,23,high,less than 4,university,none or 1
+Good,48,high,more than 5,high school,more than 2
+Good,41,middle,more than 5,university,more than 2
+Good,43,high,less than 4,university,none or 1
+Good,44,high,more than 5,high school,more than 2
+Good,33,middle,more than 5,university,none or 1
+Good,35,middle,more than 5,university,more than 2
+Good,49,high,more than 5,university,more than 2
+Good,34,low,more than 5,high school,more than 2
+Good,37,high,more than 5,high school,more than 2
+Good,26,middle,more than 5,high school,more than 2
+Good,39,high,more than 5,high school,more than 2
+Good,25,middle,more than 5,university,more than 2
+Good,24,high,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,more than 2
+Good,32,middle,less than 4,high school,none or 1
+Good,42,middle,less than 4,university,none or 1
+Good,35,middle,less than 4,university,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,45,middle,more than 5,university,more than 2
+Good,26,high,less than 4,high school,none or 1
+Good,32,high,more than 5,university,more than 2
+Good,43,middle,less than 4,high school,none or 1
+Good,26,high,less than 4,university,more than 2
+Good,33,middle,more than 5,university,more than 2
+Good,43,high,less than 4,high school,none or 1
+Good,28,high,more than 5,university,more than 2
+Good,27,high,less than 4,university,none or 1
+Good,39,middle,more than 5,university,more than 2
+Good,60,high,less than 4,high school,none or 1
+Good,38,high,more than 5,high school,more than 2
+Good,52,high,less than 4,high school,none or 1
+Good,49,high,more than 5,university,more than 2
+Good,33,high,more than 5,university,more than 2
+Good,42,middle,less than 4,university,none or 1
+Good,30,high,less than 4,high school,none or 1
+Good,42,low,less than 4,university,none or 1
+Good,47,middle,less than 4,university,none or 1
+Good,34,middle,more than 5,university,more than 2
+Good,25,middle,more than 5,university,more than 2
+Good,43,middle,more than 5,university,more than 2
+Good,25,middle,less than 4,high school,none or 1
+Good,45,high,less than 4,university,none or 1
+Good,25,high,more than 5,university,more than 2
+Good,31,high,more than 5,university,more than 2
+Good,53,middle,less than 4,university,none or 1
+Good,29,middle,more than 5,university,more than 2
+Good,25,high,more than 5,university,more than 2
+Good,55,high,more than 5,university,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,40,middle,more than 5,university,more than 2
+Good,30,high,less than 4,university,none or 1
+Good,34,middle,more than 5,high school,more than 2
+Good,42,high,less than 4,university,none or 1
+Good,34,middle,more than 5,university,more than 2
+Good,41,low,more than 5,university,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,27,middle,less than 4,university,none or 1
+Good,32,high,less than 4,high school,none or 1
+Good,40,high,more than 5,high school,more than 2
+Good,34,middle,more than 5,university,more than 2
+Good,26,low,more than 5,university,more than 2
+Good,46,middle,more than 5,high school,none or 1
+Good,43,high,more than 5,university,more than 2
+Good,36,middle,less than 4,high school,none or 1
+Good,47,high,more than 5,high school,more than 2
+Good,27,middle,more than 5,university,more than 2
+Good,37,high,less than 4,university,none or 1
+Good,58,middle,more than 5,high school,more than 2
+Good,37,middle,less than 4,high school,none or 1
+Good,35,middle,less than 4,university,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,40,middle,more than 5,university,more than 2
+Good,33,low,less than 4,university,none or 1
+Good,46,middle,more than 5,university,more than 2
+Good,30,middle,more than 5,high school,more than 2
+Good,43,high,less than 4,high school,none or 1
+Good,39,middle,more than 5,high school,more than 2
+Good,22,middle,less than 4,high school,none or 1
+Good,34,high,less than 4,high school,none or 1
+Good,42,high,less than 4,university,more than 2
+Good,24,middle,less than 4,university,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,22,high,less than 4,university,none or 1
+Good,31,high,more than 5,high school,more than 2
+Good,35,high,more than 5,university,more than 2
+Good,45,high,more than 5,high school,more than 2
+Good,31,middle,less than 4,high school,none or 1
+Good,39,high,more than 5,university,more than 2
+Good,36,high,less than 4,university,none or 1
+Good,37,middle,more than 5,university,none or 1
+Good,28,middle,more than 5,high school,more than 2
+Good,44,high,less than 4,university,more than 2
+Good,45,high,more than 5,university,more than 2
+Good,27,high,more than 5,high school,more than 2
+Good,37,high,less than 4,high school,none or 1
+Good,40,high,more than 5,university,more than 2
+Good,22,high,more than 5,high school,none or 1
+Good,53,middle,less than 4,university,none or 1
+Good,31,middle,more than 5,high school,more than 2
+Good,42,high,less than 4,high school,none or 1
+Good,29,high,less than 4,high school,none or 1
+Good,45,middle,less than 4,university,none or 1
+Good,41,high,more than 5,university,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,50,middle,less than 4,high school,none or 1
+Good,49,middle,less than 4,high school,none or 1
+Good,39,middle,more than 5,university,more than 2
+Good,22,middle,more than 5,high school,more than 2
+Good,27,low,less than 4,high school,none or 1
+Good,36,middle,more than 5,high school,more than 2
+Good,38,low,more than 5,high school,none or 1
+Good,60,high,more than 5,university,more than 2
+Good,35,high,more than 5,high school,more than 2
+Good,36,high,more than 5,high school,more than 2
+Good,44,middle,less than 4,university,none or 1
+Good,24,low,more than 5,high school,none or 1
+Good,43,high,less than 4,university,none or 1
+Good,35,middle,more than 5,university,more than 2
+Good,21,high,more than 5,high school,none or 1
+Good,37,middle,more than 5,university,none or 1
+Good,49,high,less than 4,high school,none or 1
+Good,30,middle,more than 5,university,none or 1
+Good,35,high,less than 4,high school,none or 1
+Good,39,middle,less than 4,university,none or 1
+Good,58,high,less than 4,university,more than 2
+Good,31,middle,more than 5,university,more than 2
+Good,40,middle,more than 5,university,more than 2
+Good,31,middle,more than 5,university,more than 2
+Good,44,high,less than 4,university,more than 2
+Good,58,middle,more than 5,university,more than 2
+Good,28,high,more than 5,university,more than 2
+Good,26,high,more than 5,university,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,24,middle,more than 5,high school,more than 2
+Good,43,high,less than 4,high school,none or 1
+Good,31,high,less than 4,university,none or 1
+Good,34,high,more than 5,university,more than 2
+Good,40,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,university,more than 2
+Good,30,middle,more than 5,high school,more than 2
+Good,25,middle,more than 5,university,none or 1
+Good,43,high,less than 4,high school,none or 1
+Good,45,high,more than 5,university,more than 2
+Good,40,middle,less than 4,university,none or 1
+Good,39,middle,more than 5,high school,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,26,middle,more than 5,high school,more than 2
+Good,29,middle,more than 5,university,none or 1
+Good,36,middle,less than 4,university,none or 1
+Good,48,high,less than 4,university,none or 1
+Good,24,high,more than 5,university,none or 1
+Good,24,high,more than 5,high school,more than 2
+Good,36,middle,less than 4,university,none or 1
+Good,28,high,less than 4,high school,none or 1
+Good,24,middle,more than 5,university,more than 2
+Good,43,high,less than 4,high school,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,23,high,less than 4,university,none or 1
+Good,31,middle,less than 4,high school,none or 1
+Good,44,middle,less than 4,university,none or 1
+Good,38,high,more than 5,university,more than 2
+Good,27,high,more than 5,university,none or 1
+Good,38,middle,more than 5,high school,more than 2
+Good,44,middle,less than 4,university,none or 1
+Good,51,high,less than 4,high school,none or 1
+Good,34,middle,less than 4,university,none or 1
+Good,44,middle,less than 4,university,none or 1
+Good,29,middle,more than 5,university,more than 2
+Good,26,high,less than 4,high school,none or 1
+Good,39,middle,less than 4,university,more than 2
+Good,38,high,more than 5,high school,more than 2
+Good,31,middle,less than 4,university,none or 1
+Good,45,middle,less than 4,high school,none or 1
+Good,33,high,less than 4,university,none or 1
+Good,38,middle,less than 4,high school,none or 1
+Good,39,low,less than 4,high school,none or 1
+Good,47,middle,more than 5,high school,more than 2
+Good,45,middle,less than 4,university,more than 2
+Good,40,middle,more than 5,university,more than 2
+Good,32,middle,less than 4,high school,none or 1
+Good,37,high,more than 5,high school,more than 2
+Good,47,middle,less than 4,university,none or 1
+Good,42,low,less than 4,high school,none or 1
+Good,27,high,more than 5,high school,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,40,middle,less than 4,high school,none or 1
+Good,39,low,more than 5,university,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,34,high,more than 5,university,more than 2
+Good,34,high,less than 4,high school,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,40,low,less than 4,university,none or 1
+Good,27,middle,more than 5,high school,more than 2
+Good,39,middle,less than 4,high school,none or 1
+Good,47,middle,more than 5,university,more than 2
+Good,36,middle,less than 4,high school,none or 1
+Good,44,high,less than 4,university,none or 1
+Good,35,high,more than 5,high school,more than 2
+Good,43,high,more than 5,high school,more than 2
+Good,49,high,less than 4,high school,more than 2
+Good,27,low,less than 4,university,none or 1
+Good,27,middle,less than 4,high school,none or 1
+Good,40,middle,less than 4,university,none or 1
+Good,33,middle,more than 5,high school,more than 2
+Good,42,middle,more than 5,university,more than 2
+Good,50,low,less than 4,university,none or 1
+Good,22,high,more than 5,high school,more than 2
+Good,41,middle,more than 5,high school,more than 2
+Good,23,high,more than 5,university,more than 2
+Good,51,middle,more than 5,high school,more than 2
+Good,47,middle,less than 4,high school,none or 1
+Good,43,middle,less than 4,university,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,58,middle,more than 5,high school,more than 2
+Good,31,middle,less than 4,high school,none or 1
+Good,43,high,more than 5,high school,more than 2
+Good,32,low,more than 5,high school,more than 2
+Good,29,high,more than 5,high school,more than 2
+Good,40,middle,more than 5,high school,more than 2
+Good,45,middle,more than 5,high school,more than 2
+Good,28,middle,less than 4,high school,more than 2
+Good,62,middle,more than 5,high school,more than 2
+Good,35,middle,less than 4,high school,none or 1
+Good,23,high,less than 4,high school,none or 1
+Good,47,middle,more than 5,university,more than 2
+Good,42,high,less than 4,university,more than 2
+Good,27,middle,less than 4,high school,none or 1
+Good,41,middle,less than 4,high school,more than 2
+Good,27,high,less than 4,university,none or 1
+Good,47,high,more than 5,high school,more than 2
+Good,41,high,more than 5,high school,more than 2
+Good,45,middle,less than 4,university,none or 1
+Good,48,low,less than 4,university,none or 1
+Good,55,middle,more than 5,university,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,45,high,less than 4,university,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,30,high,less than 4,university,none or 1
+Good,47,high,more than 5,high school,more than 2
+Good,32,high,less than 4,high school,none or 1
+Good,33,middle,less than 4,high school,none or 1
+Good,42,middle,more than 5,high school,none or 1
+Good,29,middle,less than 4,high school,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,51,high,more than 5,university,more than 2
+Good,42,high,less than 4,high school,more than 2
+Good,22,middle,more than 5,university,more than 2
+Good,31,high,more than 5,university,more than 2
+Good,45,middle,less than 4,university,none or 1
+Good,32,middle,more than 5,university,more than 2
+Good,46,high,more than 5,high school,more than 2
+Good,37,middle,more than 5,high school,more than 2
+Good,39,middle,less than 4,university,none or 1
+Good,39,high,less than 4,high school,none or 1
+Good,40,middle,less than 4,high school,none or 1
+Good,33,middle,less than 4,university,none or 1
+Good,37,high,more than 5,high school,more than 2
+Good,40,middle,less than 4,university,none or 1
+Good,26,low,less than 4,high school,none or 1
+Good,48,high,less than 4,university,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,26,middle,more than 5,high school,more than 2
+Good,30,high,less than 4,university,none or 1
+Good,57,middle,more than 5,university,more than 2
+Good,50,high,less than 4,high school,more than 2
+Good,27,high,more than 5,high school,more than 2
+Good,25,high,more than 5,high school,more than 2
+Good,27,middle,less than 4,university,more than 2
+Good,48,high,more than 5,university,more than 2
+Good,28,middle,less than 4,university,none or 1
+Good,38,high,more than 5,university,none or 1
+Good,41,high,less than 4,university,none or 1
+Good,33,high,more than 5,university,more than 2
+Good,40,high,more than 5,high school,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,29,middle,less than 4,university,more than 2
+Good,28,middle,more than 5,high school,more than 2
+Good,41,middle,more than 5,high school,more than 2
+Good,42,high,more than 5,university,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,50,middle,less than 4,high school,more than 2
+Good,47,high,more than 5,high school,more than 2
+Good,33,high,less than 4,university,none or 1
+Good,44,high,more than 5,university,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,36,middle,less than 4,high school,none or 1
+Good,26,high,less than 4,high school,none or 1
+Good,28,high,more than 5,university,more than 2
+Good,28,high,less than 4,high school,none or 1
+Good,60,low,more than 5,high school,more than 2
+Good,32,high,more than 5,high school,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,42,middle,more than 5,high school,more than 2
+Good,41,high,more than 5,high school,none or 1
+Good,40,high,more than 5,high school,more than 2
+Good,24,high,less than 4,high school,none or 1
+Good,34,high,less than 4,high school,none or 1
+Good,51,middle,more than 5,high school,more than 2
+Good,46,high,less than 4,high school,none or 1
+Good,38,high,more than 5,high school,more than 2
+Good,39,high,less than 4,high school,none or 1
+Good,45,middle,more than 5,high school,more than 2
+Good,41,high,more than 5,university,more than 2
+Good,42,high,more than 5,university,more than 2
+Good,51,low,less than 4,high school,more than 2
+Good,36,middle,less than 4,university,more than 2
+Good,46,low,less than 4,high school,none or 1
+Good,37,low,less than 4,university,none or 1
+Good,47,middle,more than 5,high school,more than 2
+Good,26,middle,more than 5,university,more than 2
+Good,36,middle,less than 4,university,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,22,middle,more than 5,high school,none or 1
+Good,42,high,less than 4,high school,none or 1
+Good,45,high,less than 4,university,none or 1
+Good,26,high,more than 5,high school,more than 2
+Good,44,high,less than 4,high school,none or 1
+Good,36,high,less than 4,high school,none or 1
+Good,43,middle,less than 4,university,none or 1
+Good,31,high,more than 5,high school,none or 1
+Good,58,high,more than 5,high school,more than 2
+Good,41,middle,more than 5,high school,more than 2
+Good,29,high,more than 5,university,more than 2
+Good,44,high,more than 5,university,more than 2
+Good,43,middle,less than 4,high school,more than 2
+Good,46,middle,more than 5,university,more than 2
+Good,53,middle,less than 4,high school,none or 1
+Good,30,low,less than 4,university,more than 2
+Good,54,high,more than 5,university,more than 2
+Good,48,middle,less than 4,high school,none or 1
+Good,34,high,more than 5,high school,more than 2
+Good,27,middle,less than 4,university,none or 1
+Good,48,middle,more than 5,high school,more than 2
+Good,36,middle,more than 5,high school,none or 1
+Good,41,low,more than 5,high school,more than 2
+Good,42,high,more than 5,high school,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,35,high,more than 5,high school,more than 2
+Good,37,middle,less than 4,university,none or 1
+Good,29,high,more than 5,high school,more than 2
+Good,37,high,more than 5,high school,more than 2
+Good,39,high,more than 5,university,more than 2
+Good,25,high,less than 4,high school,more than 2
+Good,44,middle,more than 5,high school,more than 2
+Good,30,middle,more than 5,high school,more than 2
+Good,39,middle,less than 4,university,more than 2
+Good,40,middle,more than 5,university,more than 2
+Good,40,high,less than 4,high school,more than 2
+Good,40,middle,less than 4,high school,none or 1
+Good,41,high,less than 4,university,none or 1
+Good,33,high,less than 4,high school,none or 1
+Good,40,low,less than 4,high school,none or 1
+Good,33,high,more than 5,university,more than 2
+Good,32,high,more than 5,high school,more than 2
+Good,34,high,more than 5,high school,more than 2
+Good,26,high,less than 4,high school,more than 2
+Good,35,high,more than 5,university,more than 2
+Good,30,high,more than 5,high school,more than 2
+Good,39,high,less than 4,university,none or 1
+Good,54,middle,more than 5,university,more than 2
+Good,35,high,less than 4,university,none or 1
+Good,38,high,more than 5,university,more than 2
+Good,35,middle,more than 5,university,more than 2
+Good,24,low,more than 5,university,more than 2
+Good,52,high,more than 5,university,more than 2
+Good,31,middle,less than 4,high school,none or 1
+Good,44,high,more than 5,high school,more than 2
+Good,38,middle,less than 4,university,none or 1
+Good,43,high,more than 5,university,none or 1
+Good,26,middle,less than 4,university,none or 1
+Good,31,middle,more than 5,university,more than 2
+Good,40,high,less than 4,university,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,44,high,less than 4,university,more than 2
+Good,39,high,less than 4,university,none or 1
+Good,38,middle,more than 5,university,none or 1
+Good,32,high,less than 4,university,none or 1
+Good,31,high,more than 5,university,more than 2
+Good,32,high,more than 5,university,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,29,high,more than 5,high school,more than 2
+Good,28,high,less than 4,university,none or 1
+Good,40,high,less than 4,high school,none or 1
+Good,33,middle,less than 4,university,none or 1
+Good,42,middle,more than 5,high school,more than 2
+Good,21,middle,less than 4,high school,none or 1
+Good,49,middle,more than 5,high school,more than 2
+Good,31,middle,more than 5,university,more than 2
+Good,47,high,more than 5,high school,more than 2
+Good,32,high,more than 5,high school,more than 2
+Good,27,middle,less than 4,high school,none or 1
+Good,34,low,less than 4,university,none or 1
+Good,36,middle,less than 4,high school,none or 1
+Good,42,high,more than 5,high school,more than 2
+Good,54,high,less than 4,university,none or 1
+Good,25,high,more than 5,high school,more than 2
+Good,44,high,less than 4,high school,more than 2
+Good,36,high,less than 4,high school,more than 2
+Good,33,high,more than 5,university,more than 2
+Good,38,middle,more than 5,high school,more than 2
+Good,26,high,less than 4,high school,none or 1
+Good,38,middle,less than 4,high school,none or 1
+Good,21,high,more than 5,high school,more than 2
+Good,39,high,more than 5,university,more than 2
+Good,64,middle,less than 4,university,none or 1
+Good,36,high,less than 4,university,none or 1
+Good,47,high,less than 4,high school,none or 1
+Good,32,middle,more than 5,high school,more than 2
+Good,32,high,more than 5,high school,more than 2
+Good,48,high,less than 4,high school,more than 2
+Good,36,high,more than 5,university,more than 2
+Good,39,middle,less than 4,university,more than 2
+Good,41,low,less than 4,high school,none or 1
+Good,41,low,more than 5,university,more than 2
+Good,39,middle,less than 4,university,more than 2
+Good,36,middle,more than 5,university,more than 2
+Good,47,middle,less than 4,high school,none or 1
+Good,35,middle,less than 4,high school,none or 1
+Good,22,high,more than 5,high school,more than 2
+Good,53,high,more than 5,university,more than 2
+Good,52,high,more than 5,university,none or 1
+Good,22,high,less than 4,high school,none or 1
+Good,36,middle,more than 5,university,none or 1
+Good,30,middle,more than 5,university,more than 2
+Good,45,low,less than 4,university,none or 1
+Good,40,middle,more than 5,university,more than 2
+Good,23,middle,more than 5,university,more than 2
+Good,29,middle,more than 5,high school,none or 1
+Good,59,low,more than 5,high school,more than 2
+Good,35,middle,less than 4,university,none or 1
+Good,21,high,more than 5,high school,more than 2
+Good,40,middle,less than 4,university,none or 1
+Good,23,middle,less than 4,university,none or 1
+Good,39,middle,less than 4,university,none or 1
+Good,42,middle,more than 5,university,more than 2
+Good,31,middle,more than 5,university,more than 2
+Good,34,middle,more than 5,high school,more than 2
+Good,59,low,more than 5,university,more than 2
+Good,33,middle,less than 4,high school,none or 1
+Good,32,high,less than 4,university,none or 1
+Good,39,high,less than 4,university,none or 1
+Good,38,high,less than 4,high school,none or 1
+Good,34,high,less than 4,university,more than 2
+Good,40,high,less than 4,high school,none or 1
+Good,26,high,less than 4,high school,none or 1
+Good,28,middle,less than 4,high school,none or 1
+Good,30,middle,less than 4,university,none or 1
+Good,24,middle,less than 4,high school,none or 1
+Good,46,middle,more than 5,university,more than 2
+Good,29,high,less than 4,university,more than 2
